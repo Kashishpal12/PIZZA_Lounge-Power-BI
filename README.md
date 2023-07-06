@@ -1,4 +1,4 @@
-# PIZZA_LEAGUE
+# PIZZA_Lounge
 Problem Statement - Pizza company name ‘The Pizza Lounge' has decided to expand their business in future. The company is facing issues with managing & analyzing their sales data as well as understanding customer behavior.
 
 Ultimate Goal of this project was to help company to identify their sales trends and the customer behaviour over a period of time.
