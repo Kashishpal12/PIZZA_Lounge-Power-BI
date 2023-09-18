@@ -22,6 +22,8 @@ After that loaded the data in power bi desktop.
 After loading I went to data modeling to create a relatioship so that it can help me to to required calculate DAX functions.
 Results- Star schemea and cardinality was 1 to many.
 
+Have attached video of my project dataset as well as dashboard and resport in the code section
+
 After it I made use of many standard visualtions to represnt my data like clustered chart, line chart, bar chart,matrix ,slicer.
 To make my reports more dynamic I made use of custom visulas as well like sunburn chart,infrographic charts,scrollers, bookmarks.
 
